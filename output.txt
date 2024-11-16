@@ -1,1 +1,3 @@
-Hello world
+Print first line
+10 A 32.5453
+Print last line
