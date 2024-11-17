@@ -1,3 +1,4 @@
-Print first line
-10 A 32.5453
-Print last line
+59 t
+5.99
+97
+98
