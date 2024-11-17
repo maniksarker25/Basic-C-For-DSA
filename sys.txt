@@ -1,4 +1,4 @@
-	Command being timed: "./input.out"
+	Command being timed: "./set_precision.out"
 	User time (seconds): 0.00
 	System time (seconds): 0.00
 	Percent of CPU this job got: 100%

@@ -1,3 +1,5 @@
+// input , type casing , ascii value
+
 #include <iostream>
 // use std
 using namespace std;
