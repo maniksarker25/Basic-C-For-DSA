@@ -1,3 +1,2 @@
-15
-Hello word
-Manik
+Fun => 10
+Main => 10
