@@ -8,7 +8,7 @@ int main()
     int x;
     char c;
     double d;
-    // type maunally
+    // type manually
     // std:: cin >> x;
     // std:: cout << x << std::endl;
 
