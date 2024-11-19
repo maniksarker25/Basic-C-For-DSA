@@ -1,4 +1,4 @@
-	Command being timed: "./this_arrow_sign.out"
+	Command being timed: "./object_return_from_fun.out"
 	User time (seconds): 0.00
 	System time (seconds): 0.00
 	Percent of CPU this job got: 100%
