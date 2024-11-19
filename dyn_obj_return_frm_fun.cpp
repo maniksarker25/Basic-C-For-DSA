@@ -1,4 +1,5 @@
-// why need dynamic object
+// dynamic funtion return from fucntion
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -22,8 +23,7 @@ public:
 
 Student *fun()
 {
-    Student tula(50, 5, 5);
-    Student *p = &tula;
+    Student *p = new Student(50, 5, 5);
     return p;
 }
 
@@ -32,7 +32,7 @@ int main()
 
     Student *p = fun();
 
-    // find garbage value because after return the function is cleared form static memory
+    // now i can get the correct value because this is dynamic object
     cout << p->roll << " " << p->cls << " " << p->gpa << endl;
 
     return 0;
