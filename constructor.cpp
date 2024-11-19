@@ -37,8 +37,13 @@ int main()
     // with constructor ==========================
 
     Student tuli(2, 2, 4.55);
-    Student tula(4, 5, 3.44);
+    // input take
+    int r;
+    int c;
+    double g;
 
+    cin >> r >> c >> g;
+    Student tula(r, c, g);
     cout << tuli.roll << " " << tuli.cls << " " << tuli.gpa << endl;
     cout << tula.roll << " " << tula.cls << " " << tula.gpa << endl;
 
