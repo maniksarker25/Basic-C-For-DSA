@@ -19,8 +19,8 @@ int main()
 
     // kholi = dhoni;
     // kholi->country = dhoni->country;
-    strcpy(kholi->country,dhoni->country);
-    kholi->jersey_no =dhoni->jersey_no;
+    strcpy(kholi->country, dhoni->country);
+    kholi->jersey_no = dhoni->jersey_no;
     delete dhoni;
 
     cout << kholi->country << " " << kholi->jersey_no << endl;
