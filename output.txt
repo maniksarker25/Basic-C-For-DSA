@@ -1,1 +1,5 @@
-Same
+size=>11
+max size=>4611686018427387903
+capacity=>15
+is empty=>0
+resize string=>hello worldxxxx
