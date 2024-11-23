@@ -1,5 +1,2 @@
-H
-e
-l
-l
-o
+300
+Hello World
