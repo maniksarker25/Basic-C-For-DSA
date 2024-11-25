@@ -1,4 +1,4 @@
-	Command being timed: "./dynamic_obj_copy.out"
+	Command being timed: "./love_string.out"
 	User time (seconds): 0.00
 	System time (seconds): 0.00
 	Percent of CPU this job got: 100%
