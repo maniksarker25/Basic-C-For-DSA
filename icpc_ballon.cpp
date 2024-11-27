@@ -51,7 +51,7 @@ int main()
         cin >> n;
         string s;
         cin >> s;
-
+        // freq array for handle solved
         int solved[26] = {0};
         int totalBalloons = 0;
 
